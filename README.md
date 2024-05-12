@@ -1,7 +1,7 @@
 <H3>ENTER YOUR NAME:SWATHI D
 <H3>ENTER YOUR REGISTER NO:212222230154
 <H3>EX. NO-3
-<H3>DATE:26-2-2024
+<H3>DATE:
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>
 
